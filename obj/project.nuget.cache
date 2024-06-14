@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3ElDLtY24VGR7Hm1ijmpuiLHVEkTFCAKuQ8BnmoE5EariU0F7UuLEasinKQG7WMqL6K4MlW1pmgLWsTNbSd1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dkany\\OneDrive\\Documents\\School work\\IT\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkany\\.nuget\\packages\\aspose.email\\24.5.0\\aspose.email.24.5.0.nupkg.sha512",
+    "C:\\Users\\dkany\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\dkany\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\dkany\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.3\\system.security.cryptography.pkcs.7.0.3.nupkg.sha512",
+    "C:\\Users\\dkany\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
